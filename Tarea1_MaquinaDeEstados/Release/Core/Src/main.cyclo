@@ -1,0 +1,10 @@
+../Core/Src/main.c:162:6:SystemClock_Config	1
+../Core/Src/main.c:354:5:Func_ESTADO_ERROR	1
+../Core/Src/main.c:361:5:Func_ESTADO_ABIERTO	3
+../Core/Src/main.c:383:5:Func_ESTADO_CERRADO	2
+../Core/Src/main.c:399:5:Func_ESTADO_ABRIENDO	3
+../Core/Src/main.c:415:5:Func_ESTADO_CERRANDO	3
+../Core/Src/main.c:433:5:Func_ESTADO_INTERMEDIO	3
+../Core/Src/main.c:452:5:Func_ESTADO_INIT	9
+../Core/Src/main.c:91:5:main	8
+../Core/Src/main.c:492:6:Error_Handler	1
